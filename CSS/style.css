@@ -1,0 +1,320 @@
+body{
+     background-image: url("https://i.postimg.cc/httL2btx/pexels-andreea-ch-1166644.jpg");
+     font-family: FreeMono, monospace;
+
+}
+
+
+
+img{
+    border-radius: 7px;
+}
+
+h1 {
+    display: inline-block;
+    
+}
+.travel{
+    display: inline-block;
+    color: #539700;
+}
+
+header img{
+    height: 80px;
+}
+
+h1{
+    color:#2B4E00;
+    position: absolute;
+}
+
+.a{
+    position: absolute;
+    left: 150px;
+    top:490px;
+    transition: 2s;
+    opacity: 0.5;
+}
+
+.a:hover{
+   position: absolute;
+    opacity: 1;
+   top:360px; 
+   
+}
+
+.b{
+   
+    position: absolute;
+   top:490px;
+   left: 250px;
+   transition: 2s;
+   opacity: 0.5;
+}
+
+.b:hover{
+  position: absolute;
+    opacity: 1;
+   top:360px;
+
+}
+
+.c{
+    position: absolute;
+    left: 350px;
+    top:490px;
+    transition: 2s;
+    opacity: 0.5;
+}
+
+.c:hover{
+ position: absolute;
+    opacity: 1;
+   top:360px;
+}
+
+.d{
+    position: absolute;
+    top: 490px;
+    left: 450px;
+    transition: 2s;
+    opacity: 0.5;
+}
+
+.d:hover{
+ position: absolute;
+    opacity: 1;
+   top:360px;
+}
+
+.f{
+    position: absolute;
+    top:490px;
+    left:550px ;
+    transition: 2s;
+    opacity: 0.5;
+}
+
+.f:hover{
+  position: absolute;
+    opacity: 1;
+   top:360px;
+}
+
+.g{
+    position: absolute;
+    top:490px ;
+    left:650px ;
+    transition: 2s;
+    opacity: 0.5;
+
+}
+
+.g:hover{
+ position: absolute;
+    opacity: 1;
+   top:360px;
+}
+
+.popular h2{
+  
+    bottom:100px;
+   
+    width: 100%;
+    text-shadow: 15px 5px 5px #0d29e0 ;
+    text-shadow: 15px 5px 9px #4759ca;
+ 
+}
+
+.travel{
+    position: relative;
+    bottom: 80px;
+    font-size: 30px;
+    left: 60px;
+
+}
+
+.travel_img{
+    position: relative;
+    bottom:20px;
+    height: 170px;
+    width: 360px;
+    left: 150px;
+}
+
+header{
+    background-image:linear-gradient(#92cf48,#b2d884) ;
+    width: 100%;
+}
+
+.pro_nas h2{
+    position: absolute;
+    top:690px;
+    
+    text-shadow: 15px 5px 5px #ffb908 ;
+    text-shadow: 15px 5px 9px #ffc32d;
+    
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+.prr{
+   position: relative;
+    top:400px;
+    left: 15px;
+   font-size: 19px;
+
+}
+
+.pr{
+    position: relative;
+    top:430px;
+    left: 15px;
+}
+
+.pe{
+   position: relative;
+    top: 460px;
+    left: 15px;
+}
+
+p{
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.hotel1{
+    position: relative;
+    top:460px;
+   background-image: linear-gradient(#ffc7df,#ffe8f1);
+   padding: 15px;
+   border-radius: 3px;
+   margin-bottom: 20px;
+ border: #f87aac solid 4px;
+ height: 150px;
+}
+
+.hotel2{
+    position: relative;
+    top:460px;
+   background-image: linear-gradient(#ffc7df,#ffe8f1);
+   padding: 15px;
+   border-radius: 3px;
+   margin-bottom: 20px;
+ border: #f87aac solid 4px;
+ height: 150px;
+}
+
+.hotel3{
+    position: relative;
+    top:460px;
+   background-image: linear-gradient(#ffc7df,#ffe8f1);
+   padding: 15px;
+   border-radius: 3px;
+   margin-bottom: 20px;
+   border: #f87aac solid 4px;
+ height: 150px;
+
+}
+
+
+.hotels h2{
+    position: relative;
+    top:450px;
+   
+     text-shadow: 15px 5px 5px #cc477c ;
+    text-shadow: 15px 5px 9px #d66794;
+}
+h4{
+    position: relative;
+    left: 840px;
+    bottom: 140px;
+    font-size: 30px;
+
+}
+
+.hotels h3{
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    font-size: 35px;
+    bottom: 90px;
+}
+.star1{
+ width: 40px;
+ height: 30px;
+ padding-bottom: 50px;
+ padding-left: 4px;
+
+}
+.star{
+ width: 40px;
+ height: 30px;
+ padding-bottom: 50px
+
+}
+
+.ah{
+  text-decoration: none;
+  color: #883858;
+  margin-left: 155px;
+  font-size: 20px;
+
+}
+
+.ah2{
+  text-decoration: none;
+  color: #883858;
+  margin-left: 108px;
+  font-size: 20px;
+}
+
+.ah3{
+  text-decoration: none;
+  color: #883858;
+  margin-left: 108px;
+  font-size: 20px;
+}
+
+
+footer{
+    position: relative;
+    top: 500px;
+    background-image: url("https://i.postimg.cc/rybKb1h4/pexels-emilio-gonz-lez-17781404.jpg");
+    color:white;
+    border-top: white solid 10px;
+}
+
+
+
+footer p, h3, h2{
+    text-align: center;
+}
+
+footer h2{
+    position: relative;
+    bottom:20px
+}
+
+footer p{
+    position: relative;
+    bottom: 40px;
+}
+ 
+ footer a{
+     position: relative;
+     left: 465px;
+ }
+
+ iframe{
+     position: relative;
+     top:500px
+ }
+
+.hotel1 p{
+    position: relative;
+    left: 670px;
+    bottom: 140px;
+}
+ 
