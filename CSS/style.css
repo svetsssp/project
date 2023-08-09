@@ -30,7 +30,7 @@ h1{
 
 .a{
     position: absolute;
-    left: 150px;
+    left: 300px;
     top:490px;
     transition: 2s;
     opacity: 0.5;
@@ -47,7 +47,7 @@ h1{
    
     position: absolute;
    top:490px;
-   left: 250px;
+   left: 400px;
    transition: 2s;
    opacity: 0.5;
 }
@@ -61,7 +61,7 @@ h1{
 
 .c{
     position: absolute;
-    left: 350px;
+    left: 500px;
     top:490px;
     transition: 2s;
     opacity: 0.5;
@@ -76,7 +76,7 @@ h1{
 .d{
     position: absolute;
     top: 490px;
-    left: 450px;
+    left: 600px;
     transition: 2s;
     opacity: 0.5;
 }
@@ -90,7 +90,7 @@ h1{
 .f{
     position: absolute;
     top:490px;
-    left:550px ;
+    left:700px ;
     transition: 2s;
     opacity: 0.5;
 }
@@ -104,7 +104,7 @@ h1{
 .g{
     position: absolute;
     top:490px ;
-    left:650px ;
+    left:800px ;
     transition: 2s;
     opacity: 0.5;
 
@@ -304,7 +304,7 @@ footer p{
  
  footer a{
      position: relative;
-     left: 465px;
+     left: 550px;
  }
 
  iframe{
